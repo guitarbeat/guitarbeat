@@ -10,7 +10,7 @@ I'm a multifaceted individual with a passion for exploring the intersections of 
   <a href="https://github.com/guitarbeat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
   <a href="https://www.instagram.com/guitarbeat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://twitter.com/WoodsResearch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="aaronwoods.info/cv.pdf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/readme-dot-md.svg" alt="CV" height="30" width="40" /></a>
+  <a href="https://aaronwoods.info/cv.pdf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/readme-dot-md.svg" alt="CV" height="30" width="40" /></a>
   <a href="https://scholar.google.com/citations?user=85U8cEoAAAAJ&hl=en&authuser=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="Google Scholar" height="30" width="40" /></a>
 </p>
 
